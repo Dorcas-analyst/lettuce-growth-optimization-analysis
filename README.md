@@ -38,7 +38,6 @@ Conducted entirely in Microsoft Excel, the study transforms raw agricultural dat
 ### Impact
 By applying these recommendations, farms like Vertical Acres can potentially increase yield by 15–20%, stabilize environmental factors, and improve overall product quality.
 
-Full Analysis on Medium: (From Seed to Harvest: A Data-Driven Journey Through Lettuce Growth Optimization)[https://medium.com/@dorcasoyibo2000/from-seed-to-harvest-a-data-driven-journey-through-lettuce-growth-optimization-d8b104ef566f]
-Follow on Linkedin: (From Seed to Harvest: A Data-Driven Journey Through Lettuce Growth Optimization)[https://www.linkedin.com/posts/oghenenyerhovwooyibo_dataanalytics-agriculture-datascience-activity-7390022013844635648-xRVD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGoJcQBuMdkAKF2dDORgoa9gKETUea9Xmg]
+Read full Analysis on Medium: [From Seed to Harvest: A Data-Driven Journey Through Lettuce Growth Optimization](https://medium.com/@dorcasoyibo2000/from-seed-to-harvest-a-data-driven-journey-through-lettuce-growth-optimization-d8b104ef566f)
+Follow on Linkedin: [From Seed to Harvest: A Data-Driven Journey Through Lettuce Growth Optimization](https://www.linkedin.com/posts/oghenenyerhovwooyibo_dataanalytics-agriculture-datascience-activity-7390022013844635648-xRVD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGoJcQBuMdkAKF2dDORgoa9gKETUea9Xmg)
 
-#DataScience #Agriculture
